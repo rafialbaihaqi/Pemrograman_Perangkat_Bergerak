@@ -1,5 +1,5 @@
 # Pemrograman_Perangkat_Bergerak
-  >Pengumpulan praktikum dan tugas teori pemroraman perangkat bergerak 
+  >Pengumpulan praktikum dan tugas teori pemrogaman perangkat bergerak 
 <table>
     <tr>
         <td>Nama</td>
