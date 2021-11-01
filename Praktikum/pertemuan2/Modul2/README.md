@@ -1,13 +1,4 @@
-# Pengumpulan praktikum PPB
-<table>
-    <tr>
-        <td>Nama</td>
-        <td>Kelas</td>
-        <td>NIM</td>
-    </tr>
-    <tr>
-        <td>Rafi Albaihaqi</td>
-        <td>S1SE03A</td>
-        <td>19104042</td>
-    </tr>
-</table>
+# Screenshoot modul 2 
+pengenalan source folder android studi dan konesi ke device android
+
+![Screenshot_20211101-202710](https://user-images.githubusercontent.com/72422140/139681781-7144424e-be18-44af-99fd-82de90a12477.jpg)
