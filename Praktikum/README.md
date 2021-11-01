@@ -1,4 +1,4 @@
-# Pengumpulan praktikum PPB
+# Pengumpulan Praktikum PPB
 <table>
     <tr>
         <td>Nama</td>
