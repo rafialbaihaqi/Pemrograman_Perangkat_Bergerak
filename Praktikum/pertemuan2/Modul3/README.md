@@ -15,6 +15,8 @@ pembuatan layout dengan mengedit activity_main.xml dan string.xml untuk membuat 
     
    ![Screenshot_20211101-202953](https://user-images.githubusercontent.com/72422140/139684129-2deda1fc-8cff-4021-baa5-507f5316ff6a.jpg)
    
+  
    # logchat 
    ![image](https://user-images.githubusercontent.com/72422140/139684836-eec8c59d-2609-43eb-a270-37a45e88ad48.png)
+   
 
