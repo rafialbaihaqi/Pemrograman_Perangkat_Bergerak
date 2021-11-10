@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Intentexim</string>
+    <string name="btn_prodi">Bawa Data Prodi Ke Activity Lain</string>
+    <string name="prodi_saya">prodi_saya</string>
+    <string name="btn_call_browser">BUKA BROWSER</string>
+    <string name="btn_call_camera">BUKA CAMERA</string>
+    <string name="input_phone_number">Masukkan Nomor Telepon</string>
+    <string name="btn_call_phone">TELEPON</string>
+    <string name="hint_input_prodi">Input Prodi</string>
+</resources>
