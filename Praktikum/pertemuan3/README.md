@@ -1,5 +1,5 @@
 # Praktikum Pertemuan 3  dan Gabung dengan Fragment Modul 5
-Membahas Intent Explicit dan Intent Implicit
+Membahas Intent Explicit dan Intent Implicit dan materi fragment yang ada di modul 5 
 # Screenshoot praktikum :
 ![image](https://user-images.githubusercontent.com/72422140/141043674-ebb1c7ba-f58c-47bc-8bee-c57d19a6abe6.png)
 
