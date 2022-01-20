@@ -54,6 +54,9 @@ class MainActivity : AppCompatActivity() {
                 intent.data = Uri.parse("tel:" + phoneNumber)
                 startActivity(intent)
                 }
+            btnFragment.setOnClickListener {
+                startActivity(Intent(this@MainActivity, Practice5ForFragmentActivity::class.java))
+            }
 
             }
             setupPermissions()

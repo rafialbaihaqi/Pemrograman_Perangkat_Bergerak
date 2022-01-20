@@ -13,6 +13,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Intentexim">
         <activity
+            android:name=".Practice5ForFragmentActivity"
+            android:exported="false" />
+        <activity
             android:name=".Practice5ReadDataActivity"
             android:exported="false" />
         <activity

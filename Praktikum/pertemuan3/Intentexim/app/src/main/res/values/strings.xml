@@ -7,4 +7,12 @@
     <string name="input_phone_number">Masukkan Nomor Telepon</string>
     <string name="btn_call_phone">TELEPON</string>
     <string name="hint_input_prodi">Input Prodi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="inputNama">inputNama</string>
+    <string name="inputNim">inputNim</string>
+    <string name="btn_to_second_fragment">Fragment Kedua</string>
+    <string name="fragment_second">fragment_second</string>
+    <string name="btn_back_home">kembali home</string>
+    <string name="open_fragment">open_fragment</string>
 </resources>
