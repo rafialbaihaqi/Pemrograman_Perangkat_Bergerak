@@ -1,13 +1,17 @@
-# Praktikum Pertemuan 3  dan Gabung dengan Fragment Modul 5
-Membahas Intent Explicit dan Intent Implicit dan materi fragment yang ada di modul 5 
+# Praktikum Pertemuan 7 gabung pertemuan 6 modul 6 
+praktikum ini lanjutan dari pembahasan modul 6 tentang list view, grid view , dan card view
 # Screenshoot praktikum :
-![image](https://user-images.githubusercontent.com/72422140/141043674-ebb1c7ba-f58c-47bc-8bee-c57d19a6abe6.png)
 
-![image](https://user-images.githubusercontent.com/72422140/141043815-c09d1aeb-c304-48a4-a21c-2beccae54db0.png)
+1. List VIEW :
 
-
-![WhatsApp Image 2022-01-20 at 11 09 30](https://user-images.githubusercontent.com/72422140/150272665-a3cddbe2-7f5d-468a-85e7-6cd4b4e3e9f0.jpeg)
+![WhatsApp Image 2022-01-21 at 21 50 45](https://user-images.githubusercontent.com/72422140/150549190-37cde4f6-bd9a-49f3-9da4-f305e07fba99.jpeg)
 
 
+2. Grid View :
 
-![WhatsApp Image 2022-01-20 at 11 10 06](https://user-images.githubusercontent.com/72422140/150272682-893eb037-d09f-4ba0-b8a6-7d3240639c33.jpeg)
+![WhatsApp Image 2022-01-21 at 21 51 02](https://user-images.githubusercontent.com/72422140/150549228-b9c2f93e-4dde-4bfb-a957-fa1b353f59b4.jpeg)
+
+
+3. Card VIEW :
+
+![WhatsApp Image 2022-01-21 at 21 51 22](https://user-images.githubusercontent.com/72422140/150549240-4b2aee2e-9fa6-473b-82a5-e20cf5ba637a.jpeg)
