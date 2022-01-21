@@ -1,5 +1,5 @@
-# Praktikum Pertemuan 3  dan Gabung dengan Fragment Modul 5
-Membahas Intent Explicit dan Intent Implicit dan materi fragment yang ada di modul 5 
+# Praktikum Pertemuan 7 gabung pertemuan 6 modul 6 
+praktikum ini lanjutan dari pembahasan modul 6 tentang list view, grid view , dan card view
 # Screenshoot praktikum :
 
 1. List VIEW :
