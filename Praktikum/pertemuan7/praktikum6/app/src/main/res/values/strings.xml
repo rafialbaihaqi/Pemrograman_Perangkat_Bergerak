@@ -5,6 +5,7 @@
     <string name="tampil_list">Tampil List</string>
     <string name="tampil_grid">Tampil Grid</string>
     <string name="tampil_card_view">Tampil Card View</string>
+    <string name="view">view</string>
 
     <string-array name="data_name">
         <item>Wisata Pagubugan</item>
