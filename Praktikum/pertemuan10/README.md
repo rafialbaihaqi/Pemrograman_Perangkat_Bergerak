@@ -1,8 +1,10 @@
-# Praktikum Pertemuan 9 (modul 8)
-praktikum ini membahas broadcast receiver modul praktikum 8
+# Praktikum Pertemuan 10 (modul 9 shared preference)
+praktikum ini membahas mengenai shared preference yang ada pada modul 9
 # Screenshoot praktikum :
 
-![WhatsApp Image 2022-01-22 at 13 35 51](https://user-images.githubusercontent.com/72422140/150628386-346440be-67d2-44a8-ab35-deedb984db75.jpeg)
+![WhatsApp Image 2022-01-22 at 18 49 26](https://user-images.githubusercontent.com/72422140/150637669-0b0bc7ac-b811-46f5-a90c-f83944087759.jpeg)
+
+![WhatsApp Image 2022-01-22 at 18 50 47](https://user-images.githubusercontent.com/72422140/150637677-6fd318ef-36a4-4633-b4b2-f3aa0dae859a.jpeg)
 
 
-![WhatsApp Image 2022-01-22 at 13 36 08](https://user-images.githubusercontent.com/72422140/150628387-fae070b8-2c93-40f4-ac7a-7e33f3889db1.jpeg)
+![WhatsApp Image 2022-01-22 at 18 50 40](https://user-images.githubusercontent.com/72422140/150637684-58466134-d21c-4239-b03f-9649208244bf.jpeg)
