@@ -1,5 +1,5 @@
 # Praktikum Pertemuan 7 gabung pertemuan 6 modul 6 
-praktikum ini lanjutan dari pembahasan modul 6 tentang list view, grid view , dan card view
+praktikum ini lanjutan dari pembahasan modul 6 tentang list view, grid view , dan card view, icon launcher
 # Screenshoot praktikum :
 
 1. List VIEW :
@@ -15,3 +15,8 @@ praktikum ini lanjutan dari pembahasan modul 6 tentang list view, grid view , da
 3. Card VIEW :
 
 ![WhatsApp Image 2022-01-21 at 21 51 22](https://user-images.githubusercontent.com/72422140/150549240-4b2aee2e-9fa6-473b-82a5-e20cf5ba637a.jpeg)
+
+Icon Launcher :
+
+
+![WhatsApp Image 2022-01-21 at 22 33 51](https://user-images.githubusercontent.com/72422140/150556189-648090d3-7e55-415c-ace7-d58fb252a25c.jpeg)
