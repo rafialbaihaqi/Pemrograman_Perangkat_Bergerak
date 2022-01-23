@@ -1,10 +1,9 @@
-# Praktikum Pertemuan 10 (modul 9 shared preference)
-praktikum ini membahas mengenai shared preference yang ada pada modul 9
+# Praktikum Pertemuan 10 (modul 9 SQlite)
+praktikum ini membahas mengenai SQLite pada modul 10 dengan membuat aplikasi quotes
 # Screenshoot praktikum :
 
-![WhatsApp Image 2022-01-22 at 18 49 26](https://user-images.githubusercontent.com/72422140/150637669-0b0bc7ac-b811-46f5-a90c-f83944087759.jpeg)
+![WhatsApp Image 2022-01-23 at 21 48 51](https://user-images.githubusercontent.com/72422140/150684343-37f00da7-225e-40e9-9194-edb68bdf07f3.jpeg)
 
-![WhatsApp Image 2022-01-22 at 18 50 47](https://user-images.githubusercontent.com/72422140/150637677-6fd318ef-36a4-4633-b4b2-f3aa0dae859a.jpeg)
+![WhatsApp Image 2022-01-23 at 21 48 51 (1)](https://user-images.githubusercontent.com/72422140/150684344-e74b7b50-02b0-45c2-91df-a0f7775848ae.jpeg)
 
-
-![WhatsApp Image 2022-01-22 at 18 50 40](https://user-images.githubusercontent.com/72422140/150637684-58466134-d21c-4239-b03f-9649208244bf.jpeg)
+![WhatsApp Image 2022-01-23 at 21 54 39](https://user-images.githubusercontent.com/72422140/150684472-613199b2-7dcf-486e-a2f3-b71da0905e0d.jpeg)
