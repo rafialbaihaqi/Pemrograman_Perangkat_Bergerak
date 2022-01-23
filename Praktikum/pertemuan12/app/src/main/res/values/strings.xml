@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">authentication</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="email">Email</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="connect_using">Connect Using</string>
+    <string name="user_id">User ID</string>
+    <string name="uid">UID</string>
+    <string name="verify_email">Verify Email</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="create_account">Create Account</string>
+    <string name="authentication">authentication</string>
+
+</resources>

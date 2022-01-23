@@ -7,4 +7,5 @@
     <string name="submit">submit</string>
     <string name="delete">delete</string>
     <string name="btn_submit">btn_submit</string>
+    <string name="quote">quote</string>
 </resources>
