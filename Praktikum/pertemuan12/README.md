@@ -1,10 +1,5 @@
-# Praktikum Pertemuan 10 (modul 9 shared preference)
-praktikum ini membahas mengenai shared preference yang ada pada modul 9
+# Praktikum Pertemuan 12 (modul 11)
+praktikum ini membahas mengenai konfigurasi firebase di android studio dan browser, auth email dan password, serta auth menggunakan akun google
 # Screenshoot praktikum :
 
-![WhatsApp Image 2022-01-22 at 18 49 26](https://user-images.githubusercontent.com/72422140/150637669-0b0bc7ac-b811-46f5-a90c-f83944087759.jpeg)
-
-![WhatsApp Image 2022-01-22 at 18 50 47](https://user-images.githubusercontent.com/72422140/150637677-6fd318ef-36a4-4633-b4b2-f3aa0dae859a.jpeg)
-
-
-![WhatsApp Image 2022-01-22 at 18 50 40](https://user-images.githubusercontent.com/72422140/150637684-58466134-d21c-4239-b03f-9649208244bf.jpeg)
+![1](https://user-images.githubusercontent.com/72422140/150703546-bcfaf017-9262-4438-815a-f7a91eed7796.png)
